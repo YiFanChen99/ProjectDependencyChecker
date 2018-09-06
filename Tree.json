@@ -1,0 +1,15 @@
+{
+    "projects": {
+        "Base": [
+            "FirstDep",
+            "SecondDep"
+        ]
+    },
+    "projects_checked": [
+        "Base"
+    ],
+    "projects_unchecked": [
+        "FirstDep",
+        "SecondDep"
+    ]
+}
